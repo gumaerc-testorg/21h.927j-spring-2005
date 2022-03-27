@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c25c940-8cec-a3e3-5edb-e12f619ceeda
 resourcetype: Document
 title: 'Changes in Non-Food Household Expenditure between Sexes  by Marital and Work
   Status '

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1c25c940-8cec-a3e3-5edb-e12f619ceeda
 resourcetype: Document
 title: 'On Household Bargaining: Theoretical Models and Empirical Evidence '
 uid: c1c51701-568c-58b0-c0b7-f95abb0d06d9
