@@ -6,6 +6,7 @@ file: /courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/68d5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Changes in Non-Food Household Expenditure between Sexes  by Marital and 
 uid: 68d58f9a-8414-4879-ec31-6cef6d23498e
 ---
 Example of student work: first draft of a research paper on changes in non-food household expenditure between sexes by marital and work status.
-
