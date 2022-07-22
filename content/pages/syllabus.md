@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus contains an description, and grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 9ad7539d-23d5-c2a6-126d-b39201cc7689
 ---
