@@ -2,7 +2,7 @@
 content_type: resource
 description: Data accompanying a student research paper on changes in non-food household
   expenditure between sexes by marital and work status.
-file: /ol-ocw-studio-app/courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/4d20948d5a73e31fa269c1efc1a3903d_MIT21H_927JS05_fnl_rsltanony.pdf
+file: /courses/21h-927j-the-economic-history-of-work-and-family-spring-2005/4d20948d5a73e31fa269c1efc1a3903d_MIT21H_927JS05_fnl_rsltanony.pdf
 file_size: 566673
 file_type: application/pdf
 learning_resource_types:
