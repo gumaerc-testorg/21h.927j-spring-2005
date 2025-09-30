@@ -171,9 +171,9 @@ The connection between reproduction and inequality in the labor market.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Goldin, Claudia, and Lawrence F. Katz. "[The power of the pill: Oral contraceptives and women's career and marriage decisions](http://www.nber.org/papers/w7527)." *Journal of Political Economy* 110, no. 4 (2002): 730-770.
+Goldin, Claudia, and Lawrence F. Katz. "{{% resource_link "2f2ff1f8-3969-42d7-a7b7-987b8740ddc6" "The power of the pill: Oral contraceptives and women's career and marriage decisions" %}}." *Journal of Political Economy* 110, no. 4 (2002): 730-770.
 
-Goldin. "A Pollution Theory of Discrimination: Male and Female Differences in Occupations and Earnings." ([PDF](http://www.nber.org/papers/w8985.pdf))   
+Goldin. "A Pollution Theory of Discrimination: Male and Female Differences in Occupations and Earnings." ({{% resource_link "ba9e7e4b-a9ca-4f7f-a5df-d507481b1fab" "PDF" %}})   
 And just for comparison, an older view of the problem by Fuchs, Victor. "Recent trends and long-run prospects for female earnings." *American Economic Review* 64 (1974): 236-242.
 
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
